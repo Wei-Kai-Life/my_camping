@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAGA,AAAA,YAAY,CAAC;EACT,OAAO,EAAE,CAAC;CACb",
+    "sources": [
+        "index.scss",
+        "_style_guild.scss"
+    ],
+    "names": [],
+    "file": "index.css"
+}
