@@ -456,7 +456,7 @@
     line-height: 68px;
     margin: 0 0 0 60px;
     padding: 8px 0 0 0;
-    background-image: url("../img/LOGO.png");
+    background-image: url("../img/logo.png");
     background-position: top;
     background-size: contain;
     background-repeat: no-repeat;
@@ -778,7 +778,7 @@
   height: 120px;
   font-size: 36px;
   font-weight: bolder;
-  background-image: url("../img/LOGO.png");
+  background-image: url("../img/logo.png");
   background-position: center left;
   background-repeat: no-repeat;
   background-size: contain;
